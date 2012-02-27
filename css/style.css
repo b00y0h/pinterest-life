@@ -218,11 +218,19 @@ td { vertical-align: top; }
    Author:
    ========================================================================== */
 
+body {
+  background-color:#f5f3f4;
+  text-align: center;
+  padding-top: 100px;
+}
 
+h1 img {
+	vertical-align: text-bottom;
+	}
 
-
-
-
+h2 {
+	color: #dedede;
+	}
 
 
 
